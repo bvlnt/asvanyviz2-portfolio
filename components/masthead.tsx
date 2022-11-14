@@ -24,8 +24,8 @@ const Masthead: React.FC = () => {
         />
       </div>
       <div className="p-12 font-bold z-10 text-white drop-shadow-[0_5px_3px_rgba(0,0,0,0.8)] text-center flex-1 flex items-center justify-center flex-col">
-        <h1 className="mb-6 text-4xl ">asvanyviz2</h1>
-        <h2 className="mb-2 text-2xl">
+        <h1 className="mb-10 text-5xl ">asvanyviz2</h1>
+        <h2 className="mb-2 text-3xl">
           <span>the vault is opening,</span> <span>brace yourself</span>
         </h2>
       </div>
